@@ -51,6 +51,13 @@ public class Queue02 {
 		}catch (Exception e) {
 			e.printStackTrace();
 		}
-			
+		
+			int n = Integer.parseInt(st.nextToken());
+			for(int i=0;i<n;i++) {
+				
+			}
+		}catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 }
